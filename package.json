@@ -1,0 +1,19 @@
+{
+  "name": "deve-cms",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviot/deve-cms.git"
+  },
+  "author": "Daviot <daviot@live.at>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daviot/deve-cms/issues"
+  },
+  "homepage": "https://github.com/daviot/deve-cms#readme"
+}
